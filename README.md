@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Mahnoor ... and I'm a currently doing bachelor's in computer science from Szabist University.<br>✨ I'm good in mathematics.<br>📚 I'm currently learning app development<br>🎯 My goals are to complete my degree and secure a good job.<br>🎲 Fun fact: Unlike most people, I don't enjoy traveling abroad and prefer exploring my local surroundings.<br>✉️How to contact me: hasanmahnoor203@gmail.com</p>
+<p align="left">My name is Mahnoor ... and I have done my bachelor's in computer science from Szabist University.<br>✨ I'm good in mathematics.<br>📚 I'm currently learning app development<br>🎯As a graduate my goal is to secure a good job.<br>🎲 Fun fact: Unlike most people, I don't enjoy traveling abroad and prefer exploring my local surroundings.<br>✉️How to contact me: hasanmahnoor203@gmail.com</p>
 
 ###
 
